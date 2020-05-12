@@ -1,0 +1,3 @@
+# Latex Coding
+
+$\mathbf{N}$ 
